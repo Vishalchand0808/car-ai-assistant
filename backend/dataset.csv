@@ -1,0 +1,1001 @@
+text,intent
+"I’m feeling gloomy, play something mellow.",play_music
+Spin some energetic rock to lift my mood.,play_music
+Play upbeat English pop this morning.,play_music
+I want calm piano music for studying.,play_music
+Give me soothing jazz in French.,play_music
+Play lively Latin salsa tracks.,play_music
+Put on relaxing lo-fi beats.,play_music
+I'm in the mood for classic Bollywood hits.,play_music
+Play some hard-hitting rap by Kendrick Lamar.,play_music
+Can you queue romantic Italian ballads?,play_music
+Play acoustic covers by Ed Sheeran.,play_music
+I’m feeling nostalgic—play 90s grunge.,play_music
+Give me cheerful K-pop songs.,play_music
+Play soulful blues by B.B. King.,play_music
+Let’s hear upbeat Afrobeat tonight.,play_music
+Maybe some tunes would help.,play_music
+I need a song right now.,play_music
+Something to listen to while I cook.,play_music
+"A little background rhythm, please.",play_music
+Could use some music here.,play_music
+What’s the temperature in Tokyo?,get_weather
+How’s the weather in New York right now?,get_weather
+Show me the forecast for Paris tomorrow.,get_weather
+Tell me the current humidity in Dubai.,get_weather
+Give me the weather outlook for Sydney.,get_weather
+Is it snowing in Toronto today?,get_weather
+Temperature for Cape Town this evening?,get_weather
+What’s the rainfall chance in Seattle?,get_weather
+Weather update for São Paulo this weekend.,get_weather
+How hot is it in Delhi at noon?,get_weather
+Will it be windy in Chicago later?,get_weather
+Forecast for Barcelona next Friday.,get_weather
+Is there a heatwave in Athens?,get_weather
+"Current conditions in Berlin, please.",get_weather
+Show tomorrow’s high and low for Rome.,get_weather
+Should I grab an umbrella today in Mumbai?,get_weather
+Do I need a jacket in London?,get_weather
+Is it shorts-weather in Honolulu?,get_weather
+Will boots be necessary in Oslo?,get_weather
+Can I leave the coat at home in Madrid?,get_weather
+Take me to Central Park.,navigate
+Navigate to Connaught Place.,navigate
+Show me directions to the nearest gas station.,navigate
+Guide me to the Eiffel Tower.,navigate
+Route to San Francisco International Airport.,navigate
+Drive to 1600 Amphitheatre Parkway.,navigate
+Find a path to the Grand Canyon Visitor Center.,navigate
+"Directions to Hotel Taj Palace, please.",navigate
+Take me to the closest coffee shop.,navigate
+Navigate to Times Square via 5th Avenue.,navigate
+Get me directions to the post office.,navigate
+Plot a course to Niagara Falls.,navigate
+Take me to my office downtown.,navigate
+Navigate to home avoiding tolls.,navigate
+Show walking directions to the library.,navigate
+Let’s head over to the mall.,navigate
+I want to go to the airport.,navigate
+Can we swing by the pharmacy?,navigate
+Let’s get over to Jake’s place.,navigate
+I need to reach the stadium.,navigate
+Turn the AC down by two degrees.,adjust_temperature
+Increase the heat to 24 degrees.,adjust_temperature
+Make it warmer in here.,adjust_temperature
+Set the thermostat to 20.,adjust_temperature
+Lower the temperature by 3 degrees.,adjust_temperature
+Cool the room a bit.,adjust_temperature
+Crank up the heater slightly.,adjust_temperature
+Bring the temperature to a comfy 22.,adjust_temperature
+Reduce the AC to medium.,adjust_temperature
+Set climate control to eco and 18 degrees.,adjust_temperature
+Turn the air-conditioner off.,adjust_temperature
+Bump the heat up just a tad.,adjust_temperature
+Set fan to cool mode at 19.,adjust_temperature
+Please warm the cabin by two degrees.,adjust_temperature
+Drop the temp to 16 right away.,adjust_temperature
+It’s a bit chilly in here.,adjust_temperature
+I’m feeling too warm.,adjust_temperature
+The room feels stuffy.,adjust_temperature
+My hands are freezing.,adjust_temperature
+Feels like a sauna right now.,adjust_temperature
+Call Mom.,call_person
+Ring up John.,call_person
+Dial Dr. Smith’s office.,call_person
+Place a call to Emily.,call_person
+Call my brother Alex.,call_person
+Ring Grandma’s mobile.,call_person
+Dial the office receptionist.,call_person
+Call Jessica on speaker.,call_person
+Ring Michael at work.,call_person
+Call Dad’s cell phone.,call_person
+Dial Sarah via WhatsApp.,call_person
+Call Coach Carter now.,call_person
+Ring up accountant Mr. Lee.,call_person
+Dial emergency contact Anna.,call_person
+"Call dentist’s clinic, please.",call_person
+I need to talk to Sarah.,call_person
+Get me in touch with Dad.,call_person
+Could you connect me to my lawyer?,call_person
+I should speak with Grandma.,call_person
+Put me through to the office.,call_person
+"I'm feeling ecstatic, play some energetic EDM.",play_music
+Play mellow acoustic guitar tracks.,play_music
+Give me peaceful Sanskrit chants.,play_music
+I want soulful Hindi ghazals tonight.,play_music
+Spin lively reggaeton beats.,play_music
+Put on somber classical cello pieces.,play_music
+Queue upbeat Japanese city-pop.,play_music
+Play smooth R&B by Alicia Keys.,play_music
+Let’s hear funky 70s disco.,play_music
+Play intense workout hip-hop.,play_music
+I need calming nature soundscapes.,play_music
+Play groovy Afro-jazz fusion.,play_music
+Give me bright Celtic folk tunes.,play_music
+Play powerful orchestral film scores.,play_music
+Put on relaxing Spanish flamenco.,play_music
+"A bit of background melodies, please.",play_music
+I could use some rhythm now.,play_music
+Maybe songs would lighten the mood.,play_music
+Something musical for this commute.,play_music
+I’m craving some sound right now.,play_music
+Show me the temperature in Seoul.,get_weather
+Weather report for Nairobi tomorrow.,get_weather
+Is it raining in Vancouver this afternoon?,get_weather
+Give me today’s forecast for Lisbon.,get_weather
+How humid is it in Bangkok?,get_weather
+Is the weather clear in Reykjavik tonight?,get_weather
+Current heat index in Phoenix?,get_weather
+Tell me if it’s foggy in San Francisco.,get_weather
+Forecast for Melbourne next Monday.,get_weather
+Will there be storms in Manila tomorrow?,get_weather
+Snow prediction for Moscow this weekend.,get_weather
+Temperature trend in Buenos Aires today.,get_weather
+Chance of hail in Denver later?,get_weather
+How cold is it in Helsinki this morning?,get_weather
+Show wind speed for Dublin now.,get_weather
+Will I need sunscreen in Miami?,get_weather
+Do I pack a coat for Edinburgh?,get_weather
+Is it sweater weather in Zurich?,get_weather
+Should I carry shades in Rome?,get_weather
+Will sandals suffice in Athens today?,get_weather
+Navigate to Golden Gate Bridge.,navigate
+Take me to the nearest pharmacy.,navigate
+"Directions to Union Station, please.",navigate
+Guide me to Buckingham Palace.,navigate
+Route me to the train museum in York.,navigate
+Lead me to Pizzeria Da Michele.,navigate
+Find directions to Mount Fuji trailhead.,navigate
+Navigate to the closest EV charger.,navigate
+Show me the quickest route home.,navigate
+Take me to the kids’ school.,navigate
+Map a path to Yellowstone South Entrance.,navigate
+Drive to Aunt Maria’s house.,navigate
+Plot bicycle directions to Central Library.,navigate
+Get me to the downtown art gallery.,navigate
+Navigate to hotel check-in desk.,navigate
+Let’s go over to the beach.,navigate
+I’d like to reach the conference center.,navigate
+How about we drop by Sam’s place?,navigate
+Need to be at the vet clinic.,navigate
+Let’s head to the new café.,navigate
+Raise the heat by 2 degrees.,adjust_temperature
+Turn cooling to 17.,adjust_temperature
+Make the room cooler.,adjust_temperature
+Set AC to low fan at 21.,adjust_temperature
+Increase warmth a notch.,adjust_temperature
+Bring down the temperature slightly.,adjust_temperature
+Switch heater to high.,adjust_temperature
+Lower thermostat to 19.,adjust_temperature
+Set climate to automatic 23.,adjust_temperature
+Turn on cool breeze mode.,adjust_temperature
+Cut the heating for now.,adjust_temperature
+Warm the cabin a little.,adjust_temperature
+Drop the climate to eco 18.,adjust_temperature
+Crank AC to max cool.,adjust_temperature
+Boost temperature to cozy 25.,adjust_temperature
+The air feels frosty.,adjust_temperature
+It’s getting hot in here.,adjust_temperature
+This room feels lukewarm.,adjust_temperature
+Bit too breezy for me.,adjust_temperature
+I’m freezing my toes off.,adjust_temperature
+Dial Dad.,call_person
+Ring up Professor Allen.,call_person
+Call best friend Maria.,call_person
+Place a call to HR Rebecca.,call_person
+Dial Captain Singh.,call_person
+Ring Grandma on FaceTime.,call_person
+Call mechanic Joe’s garage.,call_person
+Dial Lisa at extension 204.,call_person
+Call Dr. Patel quickly.,call_person
+Ring my cousin Ethan.,call_person
+Dial emergency services.,call_person
+Call barber shop for an appointment.,call_person
+Ring up Coach Elena.,call_person
+Call my landlord Mr. Gomez.,call_person
+Dial bakery to order bread.,call_person
+I need to speak with Uncle Jim.,call_person
+Get me on the phone with Mom.,call_person
+Could you connect me to the plumber?,call_person
+Need to talk to the office manager.,call_person
+Put me through to my accountant.,call_person
+"I'm feeling nostalgic, put on 80s synth-pop.",play_music
+Play upbeat Punjabi bhangra tunes.,play_music
+Give me relaxing ambient chillwave.,play_music
+Spin some soulful gospel choir songs.,play_music
+Queue energetic Brazilian samba.,play_music
+Play mellow lo-fi hip-hop beats.,play_music
+Let’s hear intense heavy metal.,play_music
+Play smooth French café jazz.,play_music
+Give me emotional K-drama ballads.,play_music
+Play lively Greek bouzouki music.,play_music
+I want calming Tibetan singing bowls.,play_music
+Put on romantic Spanish boleros.,play_music
+Play powerful opera arias by Verdi.,play_music
+Give me vibrant Afro-Cuban rhythms.,play_music
+Spin cheerful kids’ cartoon songs.,play_music
+A little music would be nice now.,play_music
+I could use some background tunes.,play_music
+Maybe a few melodies for studying.,play_music
+Need something to groove to.,play_music
+Some sound would keep me company.,play_music
+Show the current weather in Prague.,get_weather
+Weather outlook for Auckland this evening.,get_weather
+Is it drizzling in Dublin today?,get_weather
+Give me tomorrow’s forecast for Cairo.,get_weather
+How warm is it in Cancun right now?,get_weather
+Is there a storm brewing in Jakarta?,get_weather
+Current UV index in Honolulu?,get_weather
+Tell me if it’s cloudy in Zurich.,get_weather
+Forecast for Cape Town next Wednesday.,get_weather
+Will there be fog in Beijing tomorrow morning?,get_weather
+Hail chances for Calgary tonight.,get_weather
+Humidity level in Kuala Lumpur this afternoon.,get_weather
+How chilly is Reykjavik this evening?,get_weather
+Show wind chill for Minneapolis now.,get_weather
+Is it muggy in Manila today?,get_weather
+Do I need rain boots in Brussels?,get_weather
+Should I layer up in Copenhagen?,get_weather
+Is hoodie weather in Portland?,get_weather
+Will I sweat in Singapore today?,get_weather
+Can I skip the coat in Florence?,get_weather
+Navigate to the Louvre Museum.,navigate
+Take me to nearest petrol station.,navigate
+Directions to Sydney Opera House.,navigate
+Guide me to Grandma’s cottage.,navigate
+Route me to the city aquarium.,navigate
+Lead me to Central Train Station.,navigate
+Find directions to Machu Picchu entrance.,navigate
+Navigate to the closest ATM.,navigate
+Show fastest route to the office.,navigate
+Take me to the downtown stadium.,navigate
+Map a drive to Lake Tahoe South Shore.,navigate
+Drive to the dentist’s clinic.,navigate
+Plot walking path to Riverside Park.,navigate
+Get me to the new shopping complex.,navigate
+Navigate to hostel check-in lobby.,navigate
+Let’s swing by the bookstore.,navigate
+I’d like to visit the art museum.,navigate
+How about we drop in at Leo’s diner?,navigate
+Need to get to the car rental desk.,navigate
+Let’s head over to the concert hall.,navigate
+Lower the temp by three degrees.,adjust_temperature
+Turn heating up to 26.,adjust_temperature
+Make it slightly cooler in here.,adjust_temperature
+Set AC to quiet mode at 20.,adjust_temperature
+Increase warmth just one degree.,adjust_temperature
+Bring temperature down a notch.,adjust_temperature
+Switch heater to medium.,adjust_temperature
+Reduce thermostat to 18.,adjust_temperature
+Set climate control to 22 automatic.,adjust_temperature
+Turn on rapid cool mode.,adjust_temperature
+Stop the heater for now.,adjust_temperature
+Warm the lounge gently.,adjust_temperature
+Drop climate to eco 17.,adjust_temperature
+Blast AC on high cool.,adjust_temperature
+Raise temp to snug 24.,adjust_temperature
+The cabin feels ice-cold.,adjust_temperature
+It’s sweltering right now.,adjust_temperature
+The air feels stagnant.,adjust_temperature
+My feet are freezing.,adjust_temperature
+Feels overly warm in this room.,adjust_temperature
+Call Aunt Linda.,call_person
+Ring up Officer Davis.,call_person
+Dial college roommate Kevin.,call_person
+Place a call to Nurse Olivia.,call_person
+Call my mentor Professor Wu.,call_person
+Ring Grandpa on video.,call_person
+Dial bakery clerk Julia.,call_person
+Call IT support desk.,call_person
+Ring CEO Mr. Brown.,call_person
+Call Dad on speakerphone.,call_person
+Dial Carla via Skype.,call_person
+Call fitness trainer Mark.,call_person
+Ring up florist for bouquet.,call_person
+Dial emergency vet clinic.,call_person
+Call tax advisor Ms. Chen.,call_person
+I need to speak with Jenna.,call_person
+Get me connected to Mom.,call_person
+Could you ring the electrician?,call_person
+Need to talk to my dentist.,call_person
+Put me through to reception.,call_person
+"I'm feeling blue, play some soft blues.",play_music
+Play lively Zydeco dance music.,play_music
+Give me calming Japanese shakuhachi flute.,play_music
+Queue upbeat Nigerian Afrobeats.,play_music
+Put on mellow acoustic indie folk.,play_music
+Play energetic Bollywood dance numbers.,play_music
+Let’s hear serene Gregorian chants.,play_music
+Play funky 90s R&B jams.,play_music
+Give me powerful Celtic rock.,play_music
+Play relaxing Hawaiian ukulele tunes.,play_music
+I want dramatic Hans Zimmer scores.,play_music
+Spin soulful Motown classics.,play_music
+Play bright French electro-swing.,play_music
+Give me intense dubstep drops.,play_music
+Put on soothing rain-forest ambience.,play_music
+A bit of music would help me focus.,play_music
+I could go for some background sound.,play_music
+Maybe a track or two for the drive.,play_music
+Need something melodic right now.,play_music
+Some tunes could lift the vibe.,play_music
+Show the forecast for Johannesburg today.,get_weather
+Weather report for Oslo this weekend.,get_weather
+Is it sunny in Lisbon this afternoon?,get_weather
+Give me tonight’s outlook for Seoul.,get_weather
+How chilly is Toronto right now?,get_weather
+Is there drizzle expected in Bogotá?,get_weather
+Current dew point in Atlanta?,get_weather
+Tell me if it’s clear in Geneva.,get_weather
+Forecast for Perth next Thursday.,get_weather
+Will thunderstorms hit Dallas tomorrow?,get_weather
+Snow chances for Warsaw tonight.,get_weather
+Humidity in Ho Chi Minh City this evening.,get_weather
+How hot is Kuwait City at midday?,get_weather
+Show barometric pressure in Zurich.,get_weather
+Is it breezy in Wellington today?,get_weather
+Will I need gloves in Munich?,get_weather
+Do I pack shorts for Cancun?,get_weather
+Is sweatshirt weather in Seattle?,get_weather
+Should I carry an umbrella in Dublin?,get_weather
+Can I leave the scarf at home in Milan?,get_weather
+Navigate to Niagara Falls visitor center.,navigate
+Take me to the nearest car wash.,navigate
+Directions to Grand Central Terminal.,navigate
+Guide me to St. Peter’s Basilica.,navigate
+Route me to the mountain trail parking lot.,navigate
+Lead me to Joe’s Coffee downtown.,navigate
+Find a path to the science museum.,navigate
+Navigate to the closest hospital.,navigate
+Show the shortest way back home.,navigate
+Take me to the kids’ soccer field.,navigate
+Map a ride to Lake Michigan beach.,navigate
+Drive to the veterinary hospital.,navigate
+Plot a cycling route to campus.,navigate
+Get me to the rooftop bar.,navigate
+Navigate to hostel reception desk.,navigate
+Let’s swing by the farmer’s market.,navigate
+I’d like to stop at the post office.,navigate
+How about we visit Maya’s studio?,navigate
+Need to be at the courthouse.,navigate
+Let’s head over to the jazz club.,navigate
+Lower the temperature by four degrees.,adjust_temperature
+Turn heating to 23.,adjust_temperature
+Make it a bit cooler here.,adjust_temperature
+Set AC to silent mode at 19.,adjust_temperature
+Increase warmth two notches.,adjust_temperature
+Bring temp down slightly.,adjust_temperature
+Switch heater to low.,adjust_temperature
+Reduce thermostat to 17.,adjust_temperature
+Set climate to 21 automatic.,adjust_temperature
+Turn on quick chill setting.,adjust_temperature
+Deactivate heater for now.,adjust_temperature
+Warm the cabin softly.,adjust_temperature
+Drop climate to eco 16.,adjust_temperature
+Max out the AC cooling.,adjust_temperature
+Boost temp to cozy 26.,adjust_temperature
+The lounge feels like an icebox.,adjust_temperature
+It’s roasting in here.,adjust_temperature
+The air feels stale.,adjust_temperature
+My fingers are numb.,adjust_temperature
+Feels a tad stuffy now.,adjust_temperature
+Call cousin Sophia.,call_person
+Ring up Director Kim.,call_person
+Dial my dentist Dr. Ahmed.,call_person
+Place a call to Coach Ramirez.,call_person
+Call my sister Lily.,call_person
+Ring Grandpa’s landline.,call_person
+Dial reception at hotel lobby.,call_person
+Call Zoe on speaker.,call_person
+Ring Marcus at the warehouse.,call_person
+Call Mom’s mobile phone.,call_person
+Dial fire department.,call_person
+Call hairstylist Nina.,call_person
+Ring up Attorney Lopez.,call_person
+Dial pediatrician’s clinic.,call_person
+Call shipping manager Dan.,call_person
+I need to chat with Paul.,call_person
+Get me connected to my boss.,call_person
+Could you ring the gardener?,call_person
+Need to talk to Grandma.,call_person
+Put me through to customer support.,call_person
+I'm feeling mellow—play soft acoustic hits.,play_music
+Play vibrant Caribbean calypso.,play_music
+Give me chilled Swedish indie pop.,play_music
+I want dramatic orchestral metal.,play_music
+Spin lively Turkish folk songs.,play_music
+Put on serene Buddhist chanting.,play_music
+Queue energetic garage rock anthems.,play_music
+Play smooth Brazilian bossa nova.,play_music
+Let’s hear heartfelt country ballads.,play_music
+Play intense techno rave tracks.,play_music
+I need gentle rain-sounds with piano.,play_music
+Play uplifting Maasai choral music.,play_music
+Give me vintage Italian swing.,play_music
+Play soulful neo-soul by H.E.R.,play_music
+Put on relaxing harp lullabies.,play_music
+A touch of background music would do.,play_music
+I could use some audio vibes.,play_music
+Maybe spin a tune for this jog.,play_music
+Need something musical for work.,play_music
+Some sounds would brighten things up.,play_music
+Show me the temperature in Nairobi.,get_weather
+Weather forecast for Geneva tomorrow.,get_weather
+Is it stormy in Auckland this evening?,get_weather
+Give me today’s outlook for Doha.,get_weather
+How chilly is it in Vienna now?,get_weather
+Is sunshine expected in Malaga today?,get_weather
+Current heatwave status in Madrid?,get_weather
+Tell me if it’s overcast in Oslo.,get_weather
+Forecast for Cancun next Saturday.,get_weather
+Will showers hit Manila tonight?,get_weather
+Snow probability in Tallinn this week.,get_weather
+Humidity reading for Accra now.,get_weather
+How hot will Bangkok get at noon?,get_weather
+Show air-pressure in Reykjavik.,get_weather
+Is it breezy in Cape Town right now?,get_weather
+Should I pack a raincoat for Bristol?,get_weather
+Do I need mittens in Warsaw?,get_weather
+Is hoodie weather in Vancouver?,get_weather
+Will I sweat in Kuala Lumpur today?,get_weather
+Can I skip the scarf in Florence?,get_weather
+Navigate to the Colosseum.,navigate
+Take me to the closest petrol pump.,navigate
+"Directions to Canary Wharf, please.",navigate
+Guide me to Uncle Raj’s house.,navigate
+Route me to the botanical garden entrance.,navigate
+Lead me to Sushi Zen downtown.,navigate
+Find directions to Mount Kilimanjaro base.,navigate
+Navigate to the nearest police station.,navigate
+Show the fastest route to school.,navigate
+Take me to the stadium gate 3.,navigate
+Map a drive to Lake Como village.,navigate
+Drive to the orthopedic clinic.,navigate
+Plot a walking path to City Hall.,navigate
+Get me to the pop-up art fair.,navigate
+Navigate to hostel luggage room.,navigate
+Let’s swing by the thrift shop.,navigate
+I’d like to visit the craft brewery.,navigate
+How about we drop in at Maya’s loft?,navigate
+Need to reach the immigration office.,navigate
+Let’s head over to the opera house.,navigate
+Lower the temp by two degrees.,adjust_temperature
+Turn heating up to 25.,adjust_temperature
+Make it a shade cooler inside.,adjust_temperature
+Set AC to night mode at 18.,adjust_temperature
+Increase warmth slightly.,adjust_temperature
+Bring temperature down a hair.,adjust_temperature
+Switch heater to medium-low.,adjust_temperature
+Reduce thermostat to 16.,adjust_temperature
+Set climate control to 23 automatic.,adjust_temperature
+Turn on turbo cool.,adjust_temperature
+Pause the heater for a while.,adjust_temperature
+Warm the cabin gently.,adjust_temperature
+Drop climate to eco 15.,adjust_temperature
+Blast AC on full cool.,adjust_temperature
+Raise temp to comfy 27.,adjust_temperature
+The office feels like an ice cave.,adjust_temperature
+It’s baking in here.,adjust_temperature
+The air is getting stale.,adjust_temperature
+My toes are numb.,adjust_temperature
+Feels uncomfortably warm now.,adjust_temperature
+Call cousin Mateo.,call_person
+Ring up Dr. Rivera.,call_person
+Dial my manager Priya.,call_person
+Place a call to Coach Anderson.,call_person
+Call my sister Zoe.,call_person
+Ring Grandma’s cellphone.,call_person
+Dial hotel concierge desk.,call_person
+Call Omar on speaker.,call_person
+Ring Elena at finance.,call_person
+Call Mom’s office line.,call_person
+Dial ambulance service.,call_person
+Call hair salon for booking.,call_person
+Ring up Attorney Singh.,call_person
+Dial pediatric clinic front desk.,call_person
+Call shipping supervisor Leo.,call_person
+I need to talk with Hannah.,call_person
+Get me connected to Dad.,call_person
+Could you call the electrician for me?,call_person
+Need to speak with the babysitter.,call_person
+Put me through to tech support.,call_person
+I'm feeling restless—play high-energy drum & bass.,play_music
+Play mellow English acoustic ballads.,play_music
+Give me soothing Arabic oud instrumentals.,play_music
+I want lively Cuban salsa tonight.,play_music
+Spin uplifting gospel praise songs.,play_music
+Put on chilled French house tracks.,play_music
+Queue powerful Icelandic post-rock.,play_music
+Play joyful Indian bhajans.,play_music
+Let’s hear gritty southern blues rock.,play_music
+Play dramatic cinematic trailer music.,play_music
+I need soft lo-fi jazzhop beats.,play_music
+Play spirited Irish jigs.,play_music
+Give me dreamy synthwave vibes.,play_music
+Play soulful reggae by Bob Marley.,play_music
+Put on serene whale-song ambience.,play_music
+A little background rhythm would help.,play_music
+I could use some tunes for focus.,play_music
+Maybe spin a track for the ride.,play_music
+Need something musical right away.,play_music
+Some sound would perk things up.,play_music
+Show me the current weather in Havana.,get_weather
+Weather outlook for Zurich this evening.,get_weather
+Is it snowing in Anchorage today?,get_weather
+Give me tomorrow’s forecast for Nairobi.,get_weather
+How humid is it in Kuala Lumpur now?,get_weather
+Is a heatwave hitting Athens?,get_weather
+Current wind speed in Chicago?,get_weather
+Tell me if it’s drizzling in Bogotá.,get_weather
+Forecast for Sydney next Tuesday.,get_weather
+Will thunderstorms strike Manila tonight?,get_weather
+Hail possibility in Denver tomorrow.,get_weather
+UV index for Los Angeles today.,get_weather
+How chilly is Oslo this morning?,get_weather
+Show barometric pressure in Munich.,get_weather
+Is it breezy in Cape Town tonight?,get_weather
+Will I need rain boots in Amsterdam?,get_weather
+Do I pack a sweater for Dublin?,get_weather
+Is hoodie weather in Portland today?,get_weather
+Should I slather sunscreen in Bali?,get_weather
+Can I skip the coat in Rome?,get_weather
+Navigate to the Taj Mahal entrance.,navigate
+Take me to the nearest grocery store.,navigate
+"Directions to Paddington Station, please.",navigate
+Guide me to Aunt Mei’s apartment.,navigate
+Route me to the national art museum.,navigate
+Lead me to Burger Shack downtown.,navigate
+Find directions to Everest Base Camp.,navigate
+Navigate to the closest charging station.,navigate
+Show the quickest way home avoiding tolls.,navigate
+Take me to the kids’ dance studio.,navigate
+Map a drive to Lake Geneva shoreline.,navigate
+Drive to the chiropractor’s office.,navigate
+Plot walking directions to Central Plaza.,navigate
+Get me to the weekend farmers’ fair.,navigate
+Navigate to hostel common room.,navigate
+Let’s swing by the antique shop.,navigate
+I’d like to visit the science center.,navigate
+How about we drop by Leo’s workshop?,navigate
+Need to reach the passport office.,navigate
+Let’s head over to the comedy club.,navigate
+Lower the temp by one degree.,adjust_temperature
+Turn heating up to 24.,adjust_temperature
+Make it a touch cooler here.,adjust_temperature
+Set AC to whisper-quiet at 21.,adjust_temperature
+Increase warmth just a bit.,adjust_temperature
+Bring temperature down barely.,adjust_temperature
+Switch heater to eco setting.,adjust_temperature
+Slide the thermostat to 18.,adjust_temperature
+Set climate control to 23 auto.,adjust_temperature
+Turn on rapid cool breeze.,adjust_temperature
+Disable heater temporarily.,adjust_temperature
+Warm the room slightly.,adjust_temperature
+Drop climate to eco 18.,adjust_temperature
+Blast AC at maximum.,adjust_temperature
+Raise temp to cozy 26.,adjust_temperature
+The cabin feels like ice.,adjust_temperature
+It’s scorching in here.,adjust_temperature
+The air feels heavy.,adjust_temperature
+My hands are icy.,adjust_temperature
+Feels overly warm right now.,adjust_temperature
+Call Aunt Beatrice.,call_person
+Ring up Sergeant Miller.,call_person
+Dial my colleague Suresh.,call_person
+Place a call to Coach Kim.,call_person
+Call my sister Jasmine.,call_person
+Ring Grandpa’s cellphone.,call_person
+Dial hotel front desk.,call_person
+Call Diego on speaker.,call_person
+Ring Helena at marketing.,call_person
+Call Mom’s mobile number.,call_person
+Dial emergency hotline.,call_person
+Call nail salon for an appointment.,call_person
+Ring up Attorney Park.,call_person
+Dial pediatric ward.,call_person
+Call logistics manager Ivan.,call_person
+I need to speak with Lara.,call_person
+Get me connected to Father.,call_person
+Please get the electrician on the line.,call_person
+Need to talk to the babysitter.,call_person
+Put me through to technical support.,call_person
+Put on some calm tracks.,play_music
+Play Kendrick Lamar songs in Italian.,play_music
+I want to listen to jazz music.,play_music
+Put on Adele's greatest hits.,play_music
+Queue English blues songs.,play_music
+Can you play a calm playlist?,play_music
+Play melancholic jazz music.,play_music
+I'm in the mood for reggae.,play_music
+Let’s hear pop hits by Taylor Swift.,play_music
+Queue Italian EDM songs.,play_music
+I need some sound around.,play_music
+Turn up something for me.,play_music
+Could use some tunes.,play_music
+Music would be nice now.,play_music
+Let's have some rhythm.,play_music
+Play mellow Himalayan flute meditation.,play_music
+Give me upbeat Nigerian high-life tunes.,play_music
+Put on soothing Scandinavian lullabies.,play_music
+"A little background music for reading, please.",play_music
+Need a song to lift the mood.,play_music
+Give me weather details for Cape Town.,get_weather
+What's the temperature and humidity in Sydney?,get_weather
+Is it snowing in Toronto now?,get_weather
+I want the forecast for Paris.,get_weather
+How is the weather at London today?,get_weather
+Is it warm in Tokyo?,get_weather
+Show the weather update for Moscow.,get_weather
+Will it rain in Toronto tomorrow?,get_weather
+Is it snowing in Moscow now?,get_weather
+Show the weather update for Sydney.,get_weather
+Tell me the temperature in Berlin.,get_weather
+Will it rain in Tokyo tomorrow?,get_weather
+Do I need an umbrella in Tokyo?,get_weather
+Should I wear a jacket today in Toronto?,get_weather
+Is it chilly in Moscow right now?,get_weather
+Is it pouring in Dublin right now?,get_weather
+Show today’s humidity in Jakarta.,get_weather
+Forecast for Lisbon next Monday morning.,get_weather
+Will it be foggy in San Francisco tonight?,get_weather
+Do I need sunscreen in Honolulu today?,get_weather
+Drive me to the Louvre Museum.,navigate
+How do I get to Central Park?,navigate
+Take me to Times Square now.,navigate
+Navigate me to the Grand Canyon.,navigate
+Lead me to Golden Gate Bridge.,navigate
+Route me to Disneyland.,navigate
+Show me the way to Empire State Building.,navigate
+Give directions to Central Park.,navigate
+Take me over to Statue of Liberty.,navigate
+Let's stop by Times Square.,navigate
+Let's go to the Grand Canyon.,navigate
+I want to reach Eiffel Tower.,navigate
+Can we head over to Empire State Building?,navigate
+Drive me to Golden Gate Bridge.,navigate
+Give directions to the Louvre Museum.,navigate
+Navigate to the nearby dog park.,navigate
+Take me to the city history museum.,navigate
+Directions to cousin Maria’s new condo.,navigate
+Let’s drop by the farmers’ co-op.,navigate
+Guide me to the public library entrance.,navigate
+It’s too cold in here.,adjust_temperature
+I'm feeling warm.,adjust_temperature
+The room is stuffy.,adjust_temperature
+I need it cooler.,adjust_temperature
+Feels warm in here.,adjust_temperature
+Turn the thermostat to 26 degrees.,adjust_temperature
+Lower the temperature to 19.,adjust_temperature
+Switch on the heater to 18 degrees.,adjust_temperature
+Warm it up to 20 degrees.,adjust_temperature
+Cool down the room by 3 degrees.,adjust_temperature
+Turn off the AC.,adjust_temperature
+Lower the temperature to 16 degrees.,adjust_temperature
+Cool down the room by 4 degrees.,adjust_temperature
+Set heater to 17 degrees.,adjust_temperature
+Lower the temperature to 27 degrees.,adjust_temperature
+Turn the heater down a notch.,adjust_temperature
+Make the room a tad warmer.,adjust_temperature
+Cool it off just slightly.,adjust_temperature
+It feels a bit chilly—warm it up.,adjust_temperature
+The air is getting warm—lower it a bit.,adjust_temperature
+Call Michael at work.,call_person
+Ring Mom's mobile.,call_person
+Dial John now.,call_person
+Make a call to Emily.,call_person
+Contact Mark.,call_person
+Reach out to Mom.,call_person
+Call Anna on speaker.,call_person
+Call Dad via WhatsApp.,call_person
+Make a call to Michael.,call_person
+Ring Jessica's mobile.,call_person
+I need to talk to Dad.,call_person
+Get me in touch with Jessica.,call_person
+Can you connect me to Sarah?,call_person
+I should speak with Michael.,call_person
+Put me through to Michael.,call_person
+Call Grandpa on FaceTime.,call_person
+Ring my doctor’s office.,call_person
+Get me in touch with the reception desk.,call_person
+I need to speak with my accountant.,call_person
+Put me through to customer service.,call_person
+I'm feeling nostalgic—play vintage 60s rock.,play_music
+Play lively Afrobeats for dancing.,play_music
+Give me soothing Chinese guzheng melodies.,play_music
+I want intense German techno tonight.,play_music
+Spin upbeat Jamaican ska classics.,play_music
+Put on tranquil Native American flute music.,play_music
+Queue powerful symphonic metal by Nightwish.,play_music
+Play cheerful French chanson.,play_music
+Let’s hear smooth West Coast jazz.,play_music
+Play energetic Balkan brass band tunes.,play_music
+I need gentle piano lullabies.,play_music
+Play uplifting contemporary gospel choir.,play_music
+Give me vibrant Brazilian forró.,play_music
+Play soulful R&B by D’Angelo.,play_music
+Put on relaxing ocean wave ambience.,play_music
+A little music would lighten the mood.,play_music
+I could use background melodies.,play_music
+Maybe spin a track for my walk.,play_music
+Need something to hum along to.,play_music
+Some tunes would be great right now.,play_music
+Show me the temperature in Reykjavik.,get_weather
+Weather forecast for Prague tomorrow.,get_weather
+Is it raining in Manila this afternoon?,get_weather
+Give me today’s outlook for Zurich.,get_weather
+How cold is it in Bergen now?,get_weather
+Is sunshine expected in Melbourne today?,get_weather
+Current storm warning for New Orleans?,get_weather
+Tell me if it’s overcast in Tallinn.,get_weather
+Forecast for Budapest next Sunday.,get_weather
+Will showers hit Jakarta tonight?,get_weather
+Snow probability in Vilnius this weekend.,get_weather
+Humidity level in Nairobi right now.,get_weather
+How hot will Madrid get at 3 PM?,get_weather
+Show air-pressure in Geneva.,get_weather
+Is it breezy in Wellington this evening?,get_weather
+Should I carry a raincoat in Seattle?,get_weather
+Do I need gloves for Warsaw?,get_weather
+Is sweatshirt weather in Boston?,get_weather
+Will I sweat in Ho Chi Minh City today?,get_weather
+Can I skip the scarf in Valencia?,get_weather
+Navigate to Machu Picchu visitor entrance.,navigate
+Take me to the nearest petrol station.,navigate
+"Directions to Shibuya Crossing, please.",navigate
+Guide me to Aunt Maria’s house.,navigate
+Route me to the botanical conservatory.,navigate
+Lead me to Pizza Palace downtown.,navigate
+Find directions to Mount Everest Base Camp.,navigate
+Navigate to the closest emergency room.,navigate
+Show the quickest route to the airport.,navigate
+Take me to the kids’ art school.,navigate
+Map a drive to Lake Tahoe North Shore.,navigate
+Drive to the orthopedic clinic downtown.,navigate
+Plot walking path to Old Town Square.,navigate
+Get me to the weekend street market.,navigate
+Navigate to hostel laundry room.,navigate
+Let’s swing by the record store.,navigate
+I’d like to visit the maritime museum.,navigate
+How about we drop in at Leo’s garage?,navigate
+Need to reach the visa office.,navigate
+Let’s head over to the improv theater.,navigate
+Lower the temperature by two degrees.,adjust_temperature
+Turn heating up to 23.,adjust_temperature
+Make it a tad cooler inside.,adjust_temperature
+Set AC to sleep mode at 19.,adjust_temperature
+Boost the warmth by a notch.,adjust_temperature
+Bring temperature down slightly.,adjust_temperature
+Switch heater to eco-low.,adjust_temperature
+Dial the thermostat back to 17.,adjust_temperature
+Set climate control to 21 automatic.,adjust_temperature
+Turn on quick cool breeze.,adjust_temperature
+Pause the heater for now.,adjust_temperature
+Warm the cabin softly.,adjust_temperature
+Drop climate to eco 15.,adjust_temperature
+Blast AC on high.,adjust_temperature
+Raise temp to cozy 25.,adjust_temperature
+The lounge feels like a freezer.,adjust_temperature
+It’s sweltering in here.,adjust_temperature
+The air seems stale in here.,adjust_temperature
+My toes are ice-cold.,adjust_temperature
+Feels a bit stuffy now.,adjust_temperature
+Call Uncle Carlos.,call_person
+Ring up Detective Lee.,call_person
+Dial my colleague Emma.,call_person
+Place a call to Coach Martinez.,call_person
+Call my sister Lucia.,call_person
+Ring Grandpa’s home phone.,call_person
+Dial hotel reception desk.,call_person
+Put Omar on speakerphone.,call_person
+Ring Elena at accounting.,call_person
+Call Mom’s cell phone.,call_person
+"Dial the fire brigade, please.",call_person
+Call hairstylist Nina for an appointment.,call_person
+Ring up Attorney Nguyen.,call_person
+Call the pediatric clinic reception.,call_person
+"Phone the shipping supervisor, Leo.",call_person
+I need to speak with Hannah.,call_person
+Please patch me through to Dad.,call_person
+"Connect me with our electrician, thanks.",call_person
+Need to talk with the babysitter.,call_person
+"Transfer me to tech support, please.",call_person
+I'm feeling inspired—play upbeat Afro-pop.,play_music
+Play mellow Spanish guitar instrumentals.,play_music
+Give me tranquil Japanese koto pieces.,play_music
+I want energetic Scottish bagpipe tunes.,play_music
+Spin soulful neo-soul tracks by Solange.,play_music
+Put on chilled lo-fi beats with rain sounds.,play_music
+Queue lively Mexican mariachi songs.,play_music
+Play soothing ambient deep-sea recordings.,play_music
+Let’s hear powerful rock ballads from the 90s.,play_music
+Play vibrant Bollywood party hits.,play_music
+I need soft acoustic coffee-shop vibes.,play_music
+Play uplifting South African gospel.,play_music
+Give me vintage Motown grooves.,play_music
+Play intense progressive trance mixes.,play_music
+Put on calming Nordic folk lullabies.,play_music
+A bit of background sound would be nice.,play_music
+I could use some audio for this workout.,play_music
+Maybe a tune or two for reading.,play_music
+Need something musical on this drive.,play_music
+Some melodies would brighten the space.,play_music
+Show me the temperature in Dubrovnik.,get_weather
+Weather forecast for Lima tomorrow.,get_weather
+Is it raining in Phuket this evening?,get_weather
+Give me today’s outlook for Frankfurt.,get_weather
+How cold is it in Tallinn now?,get_weather
+Is sunshine expected in Perth today?,get_weather
+Current storm advisory for Miami?,get_weather
+Tell me if it’s cloudy in Zagreb.,get_weather
+Forecast for Montreal next Thursday.,get_weather
+Will showers hit Colombo tonight?,get_weather
+Snow chance in Minsk this weekend.,get_weather
+Humidity percentage in Manila right now.,get_weather
+How hot will Athens get at noon?,get_weather
+Show air-pressure in Bern.,get_weather
+Is it breezy in Auckland this evening?,get_weather
+Should I pack an umbrella for Glasgow?,get_weather
+Do I need a coat in Riga?,get_weather
+Is hoodie weather in Minneapolis?,get_weather
+Will I sweat in Panama City today?,get_weather
+Can I skip the scarf in Seville?,get_weather
+Navigate to the Great Wall Mutianyu entrance.,navigate
+Take me to the nearest charging station.,navigate
+"Directions to King’s Cross St. Pancras, please.",navigate
+Guide me to Cousin Pedro’s apartment.,navigate
+Route me to the national history museum.,navigate
+Lead me to Burger Barn downtown.,navigate
+Find directions to Mount Fuji 5th Station.,navigate
+Navigate to the closest urgent care clinic.,navigate
+Show the fastest route to the ferry terminal.,navigate
+Take me to the kids’ swimming pool.,navigate
+Map a drive to Lake Bled viewpoint.,navigate
+Drive to the dermatologist’s office.,navigate
+Plot walking route to Liberty Square.,navigate
+Get me to the weekend craft market.,navigate
+Navigate to hostel rooftop terrace.,navigate
+Let’s swing by the comic book store.,navigate
+I’d like to visit the aviation museum.,navigate
+How about we drop in at Maya’s gallery?,navigate
+Need to reach the consulate building.,navigate
+Let’s head over to the blues bar.,navigate
+Lower the temperature by three degrees.,adjust_temperature
+Turn heating to 22.,adjust_temperature
+"Make the room a bit cooler, please.",adjust_temperature
+Set AC to eco mode at 18.,adjust_temperature
+Increase warmth a smidge.,adjust_temperature
+Bring temperature down a tad.,adjust_temperature
+Switch heater to low-medium.,adjust_temperature
+Reduce thermostat to 15.,adjust_temperature
+Set climate control to 20 automatic.,adjust_temperature
+Turn on quick-cool fan.,adjust_temperature
+Pause the heater for a moment.,adjust_temperature
+Warm the cabin a touch.,adjust_temperature
+Drop climate to eco 14.,adjust_temperature
+Blast AC on super cool.,adjust_temperature
+Raise temp to a comfy 25.,adjust_temperature
+The office feels like a freezer.,adjust_temperature
+It’s blazing in here.,adjust_temperature
+The air feels thick.,adjust_temperature
+My nose is icy.,adjust_temperature
+Feels uncomfortably hot now.,adjust_temperature
+Call Aunt Rosa.,call_person
+Ring up Captain Anderson.,call_person
+Dial my coworker Elena.,call_person
+Place a call to Coach Nguyen.,call_person
+Call my brother Liam.,call_person
+Ring Grandpa on video chat.,call_person
+Dial hotel bell desk.,call_person
+Call Diego on speakerphone.,call_person
+Ring Helena in procurement.,call_person
+Call Mom’s cell.,call_person
+Dial emergency roadside assistance.,call_person
+Call beauty salon for booking.,call_person
+Ring up Attorney Carter.,call_person
+Dial pediatric nurse station.,call_person
+Call warehouse supervisor Ivan.,call_person
+I need to talk with Priya.,call_person
+"Connect me with Father, please.",call_person
+Could you ring the plumber?,call_person
+Need to speak with the dog walker.,call_person
+Put me through to IT support.,call_person
+I'm feeling wistful—play gentle indie folk.,play_music
+Play vibrant K-pop dance hits.,play_music
+Give me calming Persian santur pieces.,play_music
+I want energetic Brazilian funk tonight.,play_music
+Spin soulful acoustic covers by Sam Smith.,play_music
+Put on chilled lo-fi beats with vinyl crackle.,play_music
+Queue lively Colombian cumbia songs.,play_music
+Play soothing ambient forest soundscapes.,play_music
+Let’s hear powerful 2000s pop-punk anthems.,play_music
+Play upbeat Bollywood wedding tracks.,play_music
+I need quiet instrumental piano jazz.,play_music
+Play uplifting Zulu gospel harmonies.,play_music
+Give me vintage 70s soul grooves.,play_music
+Play intense psytrance festival mixes.,play_music
+Put on relaxing Himalayan singing bowls.,play_music
+A bit of music would set the mood.,play_music
+I could use background rhythms.,play_music
+Maybe a track for this study session.,play_music
+Need something melodic for cooking.,play_music
+Some tunes would liven things up.,play_music
+Show me the temperature in Kigali.,get_weather
+Weather forecast for Antwerp tomorrow.,get_weather
+Is it raining in Cebu this evening?,get_weather
+Give me today’s outlook for Stuttgart.,get_weather
+How cold is it in Vilnius now?,get_weather
+Is sunshine expected in Brisbane today?,get_weather
+Current storm alert for Houston?,get_weather
+Tell me if it’s foggy in Salzburg.,get_weather
+Forecast for Quito next Saturday.,get_weather
+Will showers hit Phnom Penh tonight?,get_weather
+Snow chance in Tbilisi this weekend.,get_weather
+Humidity level in Dakar right now.,get_weather
+How hot will Cairo get at sunset?,get_weather
+Show air-pressure in Lausanne.,get_weather
+Is it breezy in Christchurch this evening?,get_weather
+Should I pack an umbrella for Belfast?,get_weather
+Do I need a coat in Tallinn?,get_weather
+Is hoodie weather in Detroit?,get_weather
+Will I feel sweaty in Kuala Lumpur today?,get_weather
+Can I skip the scarf in Porto?,get_weather
+Navigate to the Acropolis main gate.,navigate
+Take me to the nearest bakery.,navigate
+"Directions to Zürich Hauptbahnhof, please.",navigate
+Guide me to Cousin Lina’s apartment.,navigate
+Route me to the modern art gallery.,navigate
+Lead me to Tacos El Rey downtown.,navigate
+Find directions to Mount Rainier trailhead.,navigate
+Navigate to the closest pediatric clinic.,navigate
+Show the quickest route to the ferry dock.,navigate
+Take me to the kids’ ballet studio.,navigate
+Map a drive to Lake Placid lodge.,navigate
+Drive to the endocrinologist’s office.,navigate
+Plot walking route to Freedom Square.,navigate
+Get me to the weekend food festival.,navigate
+Navigate to hostel game room.,navigate
+Let’s swing by the pottery shop.,navigate
+I’d like to visit the transport museum.,navigate
+How about we drop in at Nora’s workshop?,navigate
+Need to reach the visa application center.,navigate
+Let’s head over to the jazz café.,navigate
+Lower the temperature by a couple of degrees.,adjust_temperature
+Turn heating to 21.,adjust_temperature
+Make it a bit cooler in here.,adjust_temperature
+Set AC to eco-sleep at 18.,adjust_temperature
+"Add a little more heat, please.",adjust_temperature
+Lower the thermostat a bit.,adjust_temperature
+Switch heater to low-eco.,adjust_temperature
+Set the thermostat down to 15.,adjust_temperature
+Set climate control to automatic 19.,adjust_temperature
+Turn on quick-cool breeze.,adjust_temperature
+Pause the heater briefly.,adjust_temperature
+Warm the cabin slightly.,adjust_temperature
+Drop climate to eco 13.,adjust_temperature
+Set the AC to max cooling now.,adjust_temperature
+Heat it up to a snug 26.,adjust_temperature
+The cabin feels like an icebox.,adjust_temperature
+It’s blistering in here.,adjust_temperature
+The air feels oppressive.,adjust_temperature
+My fingers feel frozen.,adjust_temperature
+Feels a bit muggy now.,adjust_temperature
+Call Aunt Yvonne.,call_person
+Ring up Dr. Morales.,call_person
+Dial coworker Hassan.,call_person
+Place a call to Coach Peterson.,call_person
+Call my sister Chloe.,call_person
+Ring Grandpa on video call.,call_person
+Dial hotel housekeeping.,call_person
+Call Luca on speaker.,call_person
+Ring Elena in logistics.,call_person
+Contact Mom on her mobile.,call_person
+Dial roadside assistance hotline.,call_person
+Call spa to book a massage.,call_person
+Ring up Attorney Ruiz.,call_person
+Dial pediatric clinic nurse station.,call_person
+Call warehouse foreman Ivan.,call_person
+I need to speak with Naomi.,call_person
+Get me connected to Dad.,call_person
+Ring the electrician right away.,call_person
+Need to talk to the dog sitter.,call_person
+Put me through to customer care.,call_person
