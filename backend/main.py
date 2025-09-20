@@ -24,6 +24,7 @@ app = FastAPI(
 origins = [
     "http://localhost:5173",
     "http://localhost:3000", # A common port for React dev servers
+    "https://car-ai-assistant-one.vercel.app",
 ]
 
 app.add_middleware(
