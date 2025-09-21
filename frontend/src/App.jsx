@@ -22,7 +22,7 @@ function App() {
   // --- UPDATED: Function to connect to our FastAPI backend ---
   const sendMessageToBackend = async (text) => {
     // The backend server will be running on http://localhost:8000
-    const API_URL = "https://huggingface.co/spaces/Vishalchand0808/car-ai-backend/process-command";
+    const API_URL = "https://vishalchand0808-car-ai-backend.hf.space/process-command";
     
     try {
       const response = await axios.post(API_URL, {
